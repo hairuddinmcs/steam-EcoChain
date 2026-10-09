@@ -1,0 +1,6 @@
+{
+  "/(dashboard)/laporan-emisi/page": "app/(dashboard)/laporan-emisi/page.js",
+  "/(dashboard)/overview/page": "app/(dashboard)/overview/page.js",
+  "/(dashboard)/shipments/page": "app/(dashboard)/shipments/page.js",
+  "/page": "app/page.js"
+}

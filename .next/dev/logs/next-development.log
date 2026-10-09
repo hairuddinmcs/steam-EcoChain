@@ -1,0 +1,5 @@
+{"timestamp":"00:00:12.837","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:15.876","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:19.512","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:22:15.663","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\D:\\\\Project\\\\STEAMPreneur\\\\web-dashboard\\\\node_modules\\\\eslint-plugin-react-hooks\\\\node_modules\\\\zod-validation-error\\\\v4\")."}
+{"timestamp":"00:22:16.550","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: \"\\\\\\\\?\\\\D:\\\\Project\\\\STEAMPreneur\\\\web-dashboard\\\\node_modules\\\\yocto-queue\")."}
