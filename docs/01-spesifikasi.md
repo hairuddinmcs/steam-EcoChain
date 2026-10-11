@@ -1,6 +1,6 @@
 # Spesifikasi Produk
 
-**Nama tim:** Tim EcoChain
+**Nama tim:** Tim EcoChain Alya
 **Nama produk:** EcoChain
 **Alur inti yang dibangun:** Admin pengiriman mencatat berat, tujuan, dan moda transportasi satu pesanan, melihat estimasi emisi karbon pesanan itu secara langsung, lalu mengunduh rekap emisi bulanan untuk mitra bisnis.
 
